@@ -1,0 +1,1 @@
+A reference project that explains multithreading in Java with examples and notes. Covers thread concepts, lifecycle, creation methods (extending Thread and implementing Runnable), synchronization, and practical use cases. Useful for beginners and anyone who wants a quick refresher on Java threads
